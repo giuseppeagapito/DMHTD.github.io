@@ -98,6 +98,6 @@ Loris Belcastro, Univeristy of Calabria, Italy<br>
 Mario Cannataro, University Magna Graecia of Catanzaro, Italy<br>
 
 <h2>Contacts:</h2><br>
-Giuseppe Agapito<br>
-Chiara Zucco<br>
-</body>
+<a href="mailto:agapito@unicz.it">Giuseppe Agapito</a><br>
+<a href="mailto:chiara.zucco@gmail.com">Chiara Zucco</a><br>
+
