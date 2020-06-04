@@ -1,5 +1,5 @@
  <body>
-  <title>1st International Workshop on Novel Data Mining Methods for the Analysis of High-Throughput Biological Data (DM-HT-D)</title>
+ <title>1st International Workshop on Novel Data Mining Methods for the Analysis of High-Throughput Biological Data (DM-HT-D)</title>
 
 <h3>Held in Conjunction wiht the 20th IEEE International Conference on Data Mining  IEEE ICDM 2020 Sorrento, Italy, November 17-20, 2020<h3> <br>
 <h3>http://icdm2020.bigke.org/</h3>
