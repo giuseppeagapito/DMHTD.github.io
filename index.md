@@ -1,8 +1,8 @@
  <body>
  <h1>1st International Workshop on Novel Data Mining Methods for the Analysis of High-Throughput Biological Data (DM-HT-D)</h1>
 
-<h3>Held in Conjunction wiht the 20th IEEE International Conference on Data Mining  IEEE ICDM 2020 Sorrento, Italy, November 17-20, 2020<h3> <br>
-<h3>http://icdm2020.bigke.org/</h3>
+<h5>Held in Conjunction wiht the 20th IEEE International Conference on Data Mining  IEEE ICDM 2020 Sorrento, Italy, November 17-20, 2020<h5> <br>
+<h3><a href="http://icdm2020.bigke.org/">http://icdm2020.bigke.org/</a></h3>
 <p>The development of High-Throughout (HT) innovative technologies (e.g., next-generation sequencing, microarray, and mass spectrometry)
 for the analysis of biological samples as for instance, genomics, transcriptomics, proteomics and metabolomics, led to generate tera or 
 even peta-Byte sized files storing heterogeneous and complex data of several organisms among which human. 
