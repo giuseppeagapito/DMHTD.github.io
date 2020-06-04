@@ -49,9 +49,9 @@ Network Analysis<br>
 The workshop will take place on November 17-20, 2020, Sorrento, Italy (To Be Announced). The program is not available yet.<br>
 Submission Guidelines<br>
 The paper submission site:<br>
-https://wi-lab.com/cyberchair/2020/icdm20/scripts/ws_submit.php?subarea=S <br>
+<a href="https://wi-lab.com/cyberchair/2020/icdm20/scripts/ws_submit.php?subarea=S">https://wi-lab.com/cyberchair/2020/icdm20/scripts/ws_submit.php?subarea=S</a> <br>
 
-Paper submissions should be limited to a maximum of ten (10) pages, in the IEEE 2-column format (https://www.ieee.org/conferences/publishing/templates.html),<br> 
+Paper submissions should be limited to a maximum of ten (10) pages, in the IEEE 2-column format (<a href="https://www.ieee.org/conferences/publishing/templates.html">https://www.ieee.org/conferences/publishing/templates.html</a>),<br> 
 including the bibliography and any possible appendices. Submissions longer than 10 pages will be rejected without review. <br> 
 All submissions will be triple-blind reviewed by the Program Committee on the basis of technical quality, relevance to scope of the conference, 
 originality, significance, and clarity. The following sections give further information for authors.<br>
@@ -60,10 +60,10 @@ originality, significance, and clarity. The following sections give further info
 Since 2011, ICDM has imposed a triple blind submission and review policy for all submissions. Authors must hence not use 
 identifying information in the text of the paper and bibliographies must be referenced to preserve anonymity. 
 Any papers available on the Web (including Arxiv) no longer qualify for ICDM submissions, as their author information is already public.
-Accepted papers will be published in the conference proceedings by the IEEE Computer Society Press. All manuscripts are submitted as full papers and are reviewed based on their scientific merit. There is no separate abstract submission step. There are no separate industrial, application, short paper or poster tracks during submission. Manuscripts must be submitted electronically in online submission system (http://wi-lab.com/cyberchair/2020/icdm20/scripts/submit.php?subarea=DM). We do not accept email submissions.
+Accepted papers will be published in the conference proceedings by the IEEE Computer Society Press. All manuscripts are submitted as full papers and are reviewed based on their scientific merit. There is no separate abstract submission step. There are no separate industrial, application, short paper or poster tracks during submission. Manuscripts must be submitted electronically in online submission system (<a href="http://wi-lab.com/cyberchair/2020/icdm20/scripts/submit.php?subarea=DM">http://wi-lab.com/cyberchair/2020/icdm20/scripts/submit.php?subarea=DM</a>). We do not accept email submissions.
    <h2>JOURNAL SPECIAL ISSUE</h2>
 A selected number of best papers will be invited for possible inclusion, in an expanded and revised form, <br>
-in the Knowledge and Information Systems journal (http://kais.bigke.org/) published by Springer.<br>
+in the Knowledge and Information Systems journal (<a href="http://kais.bigke.org/">http://kais.bigke.org/</a>) published by Springer.<br>
 
    <h2>IMPORTANT DATES </h2>
 Full paper submissions: June 2, 2020 <br>
@@ -80,7 +80,7 @@ Camera-ready deadline and copyright forms: September 24, 2020<br>
 Conference dates: November 17-20, 2020<br>
 Contest prize presentations at ICDM 2020: November 19, 2020<br>
 More Information
-More information about ICDM 2020: http://icdm2020.bigke.org/<br>
+More information about ICDM 2020: <a href="http://icdm2020.bigke.org/">http://icdm2020.bigke.org/</a><br>
 
    <h2>Organizer</h2><br>
 Giuseppe Agapito, University Magna Graecia of Catanzaro, Italy<br>
