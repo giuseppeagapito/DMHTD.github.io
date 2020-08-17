@@ -71,7 +71,7 @@ Contest requirement specification and sample data available: June 12, 2020<br>
 Contest team registration begins. Data sets are available: June 26, 2020<br>
 Demo and tutorial proposals: July 10, 2020<br>
 Contest final submission deadline: 23:59, July 31, 2020.<br>
-Workshop paper submissions: August 24, 2020<br>
+Workshop paper submissions: <s>August 24, 2020</s> September 06, 2020<br>
 Conference paper, tutorial, demo notification: August 20, 2020<br>
 Contest notifications to shortlisted teams for web applications: 23:59, August 10, 2020<br>
 Contest finalist notifications: August 28, 2020<br>
